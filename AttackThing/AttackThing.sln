@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AttackThing", "AttackThing\AttackThing.csproj", "{75B65655-4C24-453D-AB69-9FED71F40B18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75B65655-4C24-453D-AB69-9FED71F40B18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75B65655-4C24-453D-AB69-9FED71F40B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75B65655-4C24-453D-AB69-9FED71F40B18}.Debug|x64.ActiveCfg = Debug|x64
+		{75B65655-4C24-453D-AB69-9FED71F40B18}.Debug|x64.Build.0 = Debug|x64
+		{75B65655-4C24-453D-AB69-9FED71F40B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75B65655-4C24-453D-AB69-9FED71F40B18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75B65655-4C24-453D-AB69-9FED71F40B18}.Release|x64.ActiveCfg = Release|x64
+		{75B65655-4C24-453D-AB69-9FED71F40B18}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC08B47D-35A0-4E9D-BEED-9B50DD01604B}
+	EndGlobalSection
+EndGlobal
